@@ -23,3 +23,4 @@ pip install -r requirement.txt
 
 example games
 1. https://lichess.org/NpWJJqlZsW4R (bot as white)
+2. https://lichess.org/@/YellowFlash2023/all (bullet games by this user "YellowFlash2023"
