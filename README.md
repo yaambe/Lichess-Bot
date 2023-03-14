@@ -20,3 +20,6 @@ pip install -r requirement.txt
     a little)
 7. enter the cordinates to the positions.py file
 8. run the main.py file
+
+example games
+1. https://lichess.org/NpWJJqlZsW4R (bot as white)
